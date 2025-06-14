@@ -7,7 +7,7 @@ A minimal sentiment analysis API that fine-tunes DistilBERT on IMDb reviews and 
 ### Local Development
 ```bash
 # Clone and setup environment
-git clone https://github.com/yourusername/tiny-sentiment-api.git
+git clone https://github.com/omerash1/tiny-sentiment-api.git
 cd tiny-sentiment-api
 conda create -n sentiment python=3.11
 conda activate sentiment
